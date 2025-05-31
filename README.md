@@ -6,14 +6,6 @@
 
 ---
 
-### 💻 Tech Stack
-- **Languages:** HTML, CSS, JavaScript, PHP, Python
-- **Frameworks & Libraries:** Tailwind CSS, Bootstrap, MyQuery
-- **Database & Tools:** MySQL
-- **Other Tools:** Figma, VS Code
-
----
-
 ### 📌 Featured Project
 
 **iCESMED – Student Entrepreneur Database System (Final Year Project)**  
@@ -22,8 +14,6 @@ A web-based system for managing student entrepreneur data under UKM’s CESMED i
 - 📊 Dashboard statistics sourced directly from the database
 - 📁 Data management with add, edit, delete, and upload from Excel
 - 📤 Export data tables to Excel for reports and backup
-
-> [🔗 https://github.com/diniizzaty24/iCESMED]
 
 ---
 
